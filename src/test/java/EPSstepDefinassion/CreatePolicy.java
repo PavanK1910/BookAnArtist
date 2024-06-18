@@ -22,8 +22,7 @@ public void click_on_policy_management_buttoon() {
 
 @Then("Admin create policy for DLPUser")
 public void admin_create_policy_for_dlp_user() {
-    // Write code here that turns the phrase above into concrete actions
-    throw new io.cucumber.java.PendingException();
+System.out.println("gitt push and pull");   
 }
 @Then("Verify Policy is created successfully")
 public void verify_policy_is_created_successfully() {
